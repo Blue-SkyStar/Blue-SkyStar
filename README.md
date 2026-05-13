@@ -3,7 +3,7 @@ taskeen 🧛
 
 🫠 Who am I?
 ------------
-  * A student in **College of Commerce & Economics** at [**Akbar Peerbhoy College**](https://www.apcollege.in/) (2021 ~)
+  * A student in **College of Arts, Science & Commerce** at [**Maharashtra College**](https://www.maharashtracollege.org/) (2021 ~)
   * A **developer** *(in developing mode)*
 
 ☄️ Development Skills
@@ -33,7 +33,7 @@ taskeen 🧛
 🔗 Links
 --------
 
-  * X (Twitter): [@khxayan](https://twitter.com/khxayan)
-  * Bluesky: [@khxayan.bsky.social](https://bsky.app/profile/khxayan.bsky.social)
-  * Mastodon: [@khxayan@mastodon.social](https://mastodon.social/@khxayan)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khxayan&label=Profile%20views&color=0e75b6&style=flat" alt="khxayan" height="30"/> </p>
+  * X (Twitter): [@user](https://twitter.com/)
+  * Bluesky: [@user](https://bsky.app/profile/)
+  * Mastodon: [@user](https://mastodon.social/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Blue-SkyStar&label=Profile%20views&color=0e75b6&style=flat" alt="Blue-SkyStar" height="30"/> </p>
