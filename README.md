@@ -6,8 +6,8 @@ taskeen 👋
   * A student in **College of Arts, Science & Commerce** at [**Maharashtra College**](https://www.maharashtracollege.org/) (2021 ~)
   * A **developer** *(in developing mode)*
 
-☄️ Development Skills
----------------------
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Development Skills
+--------------------- 
 ### Web Frontend
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FAF9F8)
   ![HTML](https://img.shields.io/badge/HTML-E5532F?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -37,3 +37,5 @@ taskeen 👋
   * Bluesky: [@user](https://bsky.app/profile/)
   * Mastodon: [@user](https://mastodon.social/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Blue-SkyStar&label=Profile%20views&color=0e75b6&style=flat" alt="Blue-SkyStar" height="30"/> </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
